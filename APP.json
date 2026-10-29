@@ -1,0 +1,22 @@
+{
+  "slug": "lula-says",
+  "name": "Lula Says",
+  "wordmark": "LULA",
+  "subject": "Luiz Inácio Lula da Silva",
+  "handle": "LulaOficial",
+  "initials": "LL",
+  "color": "#6b7959",
+  "profile": "https://x.com/LulaOficial",
+  "origin": "https://nanalab.kr/lula-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

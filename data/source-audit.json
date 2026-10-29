@@ -1,0 +1,241 @@
+{
+  "slug": "lula-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 238,
+  "first": "2026-10-21",
+  "last": "2026-10-28",
+  "exact_time": 238,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies",
+      "sha256": "6bb5d97861f4234e026027758814d63d171e83c0836b95c705c8d9738e2e5514",
+      "timeline_items": 30,
+      "accepted": 17,
+      "excluded": {
+        "other-author-or-unverified": 10,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__-sLAAIAAAATMjExNTE2NTkyMzkyMTIzMjIwMQgAAwAAAAIAAA",
+      "sha256": "1eb6218197a0402a0f5403ae47e1e1669c71f6d241af7541fe80125ce0fc8187",
+      "timeline_items": 41,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 20
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__9cLAAIAAAATMjExNTE0MjY1MjQyMTQzOTk3MwgAAwAAAAIAAA",
+      "sha256": "1d65850d9ca282d610bfabb0fe1c2017c3083bde328a3080147eee77ff897dfd",
+      "timeline_items": 32,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__8MLAAIAAAATMjExNDg1OTkwNzkyMDg4ODEzMAgAAwAAAAIAAA",
+      "sha256": "baa519a8f6d33a32cfcc40a0e037e7a529e0370775ffdecfeebfc6659552bac8",
+      "timeline_items": 30,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__68LAAIAAAATMjExNDg1NDI5NDczMDIyMzczOQgAAwAAAAIAAA",
+      "sha256": "2c85bba5fb0116232d90ff178aea57d4b897044f871ed1e86357b32df52af0a7",
+      "timeline_items": 37,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "other-author-or-unverified": 16
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__5sLAAIAAAATMjExNDgwNDM1NDY4MzEyNjAyNwgAAwAAAAIAAA",
+      "sha256": "5e03ffe5c2782d5ef2821fa5a3995ec4b642338862efe59063ece9cc71fef542",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__4cLAAIAAAATMjExNDE3NTMzODA5MTU5MDA3NggAAwAAAAIAAA",
+      "sha256": "317104faae4e25a14e06a5e43fe981c73d51e9118d177b13502c571005350828",
+      "timeline_items": 21,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 15,
+        "other-author-or-unverified": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__3QLAAIAAAATMjExNDEzNjkzNTQ0NzEyMjA0NQgAAwAAAAIAAA",
+      "sha256": "23a035b5ba9157b4665ec32d6a36cb0aa87fe6f073df654c9d2db58cf83ff2e7",
+      "timeline_items": 19,
+      "accepted": 7,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__2ILAAIAAAATMjExNDA3NzM2Mjg0MTA2MzU4NwgAAwAAAAIAAA",
+      "sha256": "e1aaa51ec596ecc91ff097233b5370b8fa8d3ac63d01bec1980a048ffd3a1aea",
+      "timeline_items": 20,
+      "accepted": 8,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__08LAAIAAAATMjExNDAzMzIxODcwNTgyNjIwNwgAAwAAAAIAAA",
+      "sha256": "ed892a8ba2f477370f0551753beb91af709f16d2529221c81bc11093c16d34ea",
+      "timeline_items": 21,
+      "accepted": 12,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 8
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__zwLAAIAAAATMjExMzg2MTY0MzE0MjgzNjQxMQgAAwAAAAIAAA",
+      "sha256": "674f4f435113bef3720e3061aed45626ba43a921f0468e1e9ff2f5ceb2f58c43",
+      "timeline_items": 19,
+      "accepted": 10,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 8
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__yoLAAIAAAATMjExMzgxMDMzMzYyMjMxNzI3NggAAwAAAAIAAA",
+      "sha256": "a61e861cee5e506e0c4e7526a533966dcaa47c68388d6ad056b046245caeee1a",
+      "timeline_items": 22,
+      "accepted": 10,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 10,
+        "other-author-or-unverified": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__xYLAAIAAAATMjExMzc3MTk0MzQ3NjI3Nzc1OAgAAwAAAAIAAA",
+      "sha256": "a7ae761da4ab3a889c8e6912d337cb80942d91a5cbcac6677fb5f98ed5bdcb52",
+      "timeline_items": 21,
+      "accepted": 9,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 11
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__wILAAIAAAATMjExMzY0NDM4NTEyMDIxNTI0MQgAAwAAAAIAAA",
+      "sha256": "05f0db8b49ebe0c24a18f2433be80925f0a6a0dae1f12358958d45c7c221a6fc",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__u4LAAIAAAATMjExMzQzNTY3MTI3Njc3Nzc3NAgAAwAAAAIAAA",
+      "sha256": "9b1f67e67a016e60df48d72492cce81c42eac8d530714b14ff3522c99e28a3ea",
+      "timeline_items": 23,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7,
+        "other-author-or-unverified": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__toLAAIAAAATMjExMzM0ODE4MDA0MTUwNzE1NQgAAwAAAAIAAA",
+      "sha256": "d58eebf0bdc6f58626cbcd762aaa4146937f06f5ac06566994ee31bfe918444d",
+      "timeline_items": 21,
+      "accepted": 11,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__sYLAAIAAAATMjExMzI2NzgwMjYzMDkxNDA1NAgAAwAAAAIAAA",
+      "sha256": "339b6c737afeb10d950dd0ca8cffb5dad908f7d697f776b77bce8d7b0adf0276",
+      "timeline_items": 23,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 15,
+        "other-author-or-unverified": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__rILAAIAAAATMjExMzIxODQ5NjY2MjU2NTI2NQgAAwAAAAIAAA",
+      "sha256": "c97da03f765380d5c301f55643f835a272d17cf95499a68ff5bbed58ad8c9079",
+      "timeline_items": 23,
+      "accepted": 10,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 10,
+        "other-author-or-unverified": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__p4LAAIAAAATMjExMzA1MjA4NjM4MDIyNDc1MQgAAwAAAAIAAA",
+      "sha256": "d1382b077606ade375e83fdccadc08f73cf8c281b41616be8df403965e53f554",
+      "timeline_items": 20,
+      "accepted": 7,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 12
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/LulaOficial/with_replies?cursor=DAAHCgABHVwY03I__osLAAIAAAATMjExMjk2NDY2OTQwOTUzODM1OQgAAwAAAAIAAA",
+      "sha256": "f4167c94fdc7b126fc1a11217ec1fdf559686eb4b125d96ce57419ade3ecb413",
+      "timeline_items": 21,
+      "accepted": 8,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 12
+      }
+    }
+  ],
+  "excluded": {
+    "other-author-or-unverified": 73,
+    "repost": 155,
+    "missing-author-or-permalink": 19
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}
